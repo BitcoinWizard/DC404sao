@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "dc4044")(type KiCad)(uri "$(KIPRJMOD)/dc4044.pretty")(options "")(descr ""))
+)
